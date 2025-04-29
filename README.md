@@ -33,7 +33,7 @@ Galeria-do-Levi/ ├── index.html ├── style.css ├── script.js �
 
 ## 🔗 Acesse o projeto online
 
-[Clique aqui para visualizar no GitHub Pages](https://SEU_USUARIO.github.io/Galeria-do-Levi)
+(https://luizarmota.github.io/galeria-de-levi/)
 
 
 
